@@ -1,2 +1,2 @@
 # Personal-Website
-a personal website made in a bootcamp course
+still in progress, it is a bootcamp course
