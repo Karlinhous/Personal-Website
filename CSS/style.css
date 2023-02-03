@@ -1,0 +1,53 @@
+body {
+    height: 100%;
+    background-color: #2f3148;
+    font-family: "Montserrat Alternates", sans-serif;
+    color: #eaedff;
+}
+
+#navbar {
+
+}
+
+#navlink ul {
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    gap: 3%;
+    list-style: none;
+    width: 100%;
+}
+
+a {
+    color: #eaedff;
+    text-decoration: none;
+    transition: 0.3s;
+}
+a:hover {
+    color: #a2b9ee;
+    cursor: pointer;
+    transform: scale(1.1);
+}
+#Contact {
+    background-color: #2f3148;
+    padding: 20px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin: 5px;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    border-style: none;
+    border-top-style: groove;
+    border-color: #eaedff;
+    border-width: 5px;
+    width: 100%;
+}
